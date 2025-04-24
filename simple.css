@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+input, button {
+    padding: 5px;
+    margin: 5px 0;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin: 5px 0;
+}
